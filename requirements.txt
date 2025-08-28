@@ -1,0 +1,6 @@
+streamlit
+APScheduler
+gTTS
+boto3
+openai
+python-dotenv
